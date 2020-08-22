@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CheckOutProcess.Data/1.0.0": {
+        "dependencies": {
+          "CheckOutProcess.Core": "1.0.0"
+        },
+        "runtime": {
+          "CheckOutProcess.Data.dll": {}
+        }
+      },
+      "CheckOutProcess.Core/1.0.0": {
+        "runtime": {
+          "CheckOutProcess.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckOutProcess.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckOutProcess.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

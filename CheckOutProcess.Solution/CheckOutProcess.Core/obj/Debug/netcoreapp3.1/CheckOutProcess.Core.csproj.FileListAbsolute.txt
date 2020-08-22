@@ -1,0 +1,9 @@
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\bin\Debug\netcoreapp3.1\CheckOutProcess.Core.deps.json
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\bin\Debug\netcoreapp3.1\CheckOutProcess.Core.dll
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\bin\Debug\netcoreapp3.1\CheckOutProcess.Core.pdb
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.csprojAssemblyReference.cache
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.csproj.CoreCompileInputs.cache
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.AssemblyInfoInputs.cache
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.AssemblyInfo.cs
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.dll
+C:\Users\Somsubhra\source\repos\SCM-Coding-Test\CheckOutProcess.solution\CheckOutProcess.Core\obj\Debug\netcoreapp3.1\CheckOutProcess.Core.pdb
